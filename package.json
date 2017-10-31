@@ -1,0 +1,16 @@
+{
+  "name": "m3uparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jeremy Stover (kadajett)",
+  "license": "ISC",
+  "devDependencies": {
+    "promise": "^8.0.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
